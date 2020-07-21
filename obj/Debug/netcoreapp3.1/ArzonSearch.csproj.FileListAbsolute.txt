@@ -1,0 +1,17 @@
+C:\Users\sora\source\repos\ArzonSearch\bin\Debug\netcoreapp3.1\ArzonSearch.exe
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.csprojAssemblyReference.cache
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.Form1.resources
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.csproj.GenerateResource.cache
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.AssemblyInfoInputs.cache
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.AssemblyInfo.cs
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.csproj.CoreCompileInputs.cache
+C:\Users\sora\source\repos\ArzonSearch\bin\Debug\netcoreapp3.1\ArzonSearch.deps.json
+C:\Users\sora\source\repos\ArzonSearch\bin\Debug\netcoreapp3.1\ArzonSearch.runtimeconfig.json
+C:\Users\sora\source\repos\ArzonSearch\bin\Debug\netcoreapp3.1\ArzonSearch.runtimeconfig.dev.json
+C:\Users\sora\source\repos\ArzonSearch\bin\Debug\netcoreapp3.1\ArzonSearch.dll
+C:\Users\sora\source\repos\ArzonSearch\bin\Debug\netcoreapp3.1\ArzonSearch.pdb
+C:\Users\sora\source\repos\ArzonSearch\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.csproj.CopyComplete
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.dll
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.pdb
+C:\Users\sora\source\repos\ArzonSearch\obj\Debug\netcoreapp3.1\ArzonSearch.genruntimeconfig.cache
