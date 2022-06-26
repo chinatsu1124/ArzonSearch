@@ -595,8 +595,6 @@
             // 
             this.cbxFBI.Anchor = System.Windows.Forms.AnchorStyles.Left;
             this.cbxFBI.AutoSize = true;
-            this.cbxFBI.Checked = true;
-            this.cbxFBI.CheckState = System.Windows.Forms.CheckState.Checked;
             this.cbxFBI.Location = new System.Drawing.Point(10, 6);
             this.cbxFBI.Margin = new System.Windows.Forms.Padding(10, 3, 10, 3);
             this.cbxFBI.Name = "cbxFBI";

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pM8PUnj6V0ThcNHoaMN8/EYHI0GSZi+ftar5OWD5uswE2V0rprn6GmbofWBD36Va8MHqh4YpQwe77wtRbx2QVA==",
+  "dgSpecHash": "j4aureXNzAYnjq6bdxRwfxw4l5qNdCi5YKZoaq9QpaTbwhJ33QFEHIgDEKKQUxwXeGJdpSdnk5YPMSYmjj+0Iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sora\\source\\repos\\ArzonSearch\\ArzonSearch.csproj",
+  "projectFilePath": "C:\\Users\\kenan\\Source\\Repos\\ArzonSearch\\ArzonSearch.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\sora\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+    "C:\\Users\\kenan\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
   ],
   "logs": []
 }

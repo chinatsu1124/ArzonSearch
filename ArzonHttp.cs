@@ -40,7 +40,7 @@ namespace ArzonSearch
             HttpClient client = new HttpClient();
             client.DefaultRequestHeaders.Add("Cookie", cookie);
             client.DefaultRequestHeaders.Add("Referer", item_url);
-            client.Timeout = TimeSpan.FromSeconds(10);
+            client.Timeout = TimeSpan.FromSeconds(30);
             int retry = 3;
             while (retry > 0)
             {

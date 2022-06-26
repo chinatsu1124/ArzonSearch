@@ -31,6 +31,8 @@ namespace ArzonSearch
         private async void btnSearch_ClickAsync(object sender, EventArgs e)
         {
             pgbKeyword.Value = 0;
+            //信息框显示"开始搜索..."
+            lblProxyTip.Text = "开始搜索...";
             lbxNum.Items.Clear();
             Animes.Clear();
             Avers.Clear();
@@ -75,6 +77,7 @@ namespace ArzonSearch
                         }
                         if (fail != 0) { MessageBox.Show(fail.ToString() + "个信息获取失败", "警告", MessageBoxButtons.OK, MessageBoxIcon.Warning); }
                         pgbKeyword.Value = 100;
+                        lblProxyTip.Text = "搜索完成";
                     }
                     else
                     {
@@ -117,6 +120,10 @@ namespace ArzonSearch
                     {
                         pbxPost.Image = Image.FromFile("NoImage.jpg");
                     }
+                    else if (Avers[i].Poster == null)
+                    {
+                        lblProxyTip.Text = "图片获取失败";
+                    }
                     else { pbxPost.Image = Avers[i].Poster; }
                 }
             }
@@ -138,6 +145,10 @@ namespace ArzonSearch
                     if (cbxFBI.Checked)
                     {
                         pbxPost.Image = Image.FromFile("NoImage.jpg");
+                    }
+                    else if (Animes[i].Poster == null)
+                    {
+                        lblProxyTip.Text = "图片获取失败";
                     }
                     else { pbxPost.Image = Animes[i].Poster; }
                 }
@@ -191,6 +202,8 @@ namespace ArzonSearch
         private async void btnAnimeSearch_ClickAsync(object sender, EventArgs e)
         {
             pgbKeyword.Value = 0;
+            //信息框显示"开始搜索..."
+            lblProxyTip.Text = "开始搜索...";
             lbxNum.Items.Clear();
             Avers.Clear();
             Animes.Clear();
@@ -237,6 +250,7 @@ namespace ArzonSearch
                             MessageBox.Show(fail.ToString() + "个信息获取失败", "警告", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                         }
                         pgbKeyword.Value = 100;
+                        lblProxyTip.Text = "搜索完成";
                     }
                     else
                     {

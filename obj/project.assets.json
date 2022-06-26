@@ -69,19 +69,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sora\\.nuget\\packages\\": {}
+    "C:\\Users\\kenan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sora\\source\\repos\\ArzonSearch\\ArzonSearch.csproj",
+      "projectUniqueName": "C:\\Users\\kenan\\source\\repos\\ArzonSearch\\ArzonSearch.csproj",
       "projectName": "ArzonSearch",
-      "projectPath": "C:\\Users\\sora\\source\\repos\\ArzonSearch\\ArzonSearch.csproj",
-      "packagesPath": "C:\\Users\\sora\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sora\\source\\repos\\ArzonSearch\\obj\\",
+      "projectPath": "C:\\Users\\kenan\\source\\repos\\ArzonSearch\\ArzonSearch.csproj",
+      "packagesPath": "C:\\Users\\kenan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kenan\\source\\repos\\ArzonSearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sora\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -93,6 +93,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -104,6 +105,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "HtmlAgilityPack": {
             "target": "Package",
@@ -128,7 +130,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
