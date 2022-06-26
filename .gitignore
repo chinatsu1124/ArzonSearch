@@ -1,2 +1,5 @@
 #vs studio文件夹
 .vs
+#debug文件夹
+bin
+obj
