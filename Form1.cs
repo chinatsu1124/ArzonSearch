@@ -118,7 +118,7 @@ namespace ArzonSearch
                     tbxIntroduction.Text = Avers[i].Introduction;
                     if (cbxFBI.Checked)
                     {
-                        pbxPost.Image = Image.FromFile("NoImage.jpg");
+                        pbxPost.Image = Properties.Resources.NoImage;
                     }
                     else if (Avers[i].Poster == null)
                     {
@@ -144,7 +144,7 @@ namespace ArzonSearch
                     tbxIntroduction.Text = Animes[i].Introduction;
                     if (cbxFBI.Checked)
                     {
-                        pbxPost.Image = Image.FromFile("NoImage.jpg");
+                        pbxPost.Image = Properties.Resources.NoImage;
                     }
                     else if (Animes[i].Poster == null)
                     {
