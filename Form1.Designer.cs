@@ -801,7 +801,7 @@
             this.Controls.Add(this.panMagnet);
             this.Controls.Add(this.panSearch);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(1465, 954);
+            // this.MaximumSize = new System.Drawing.Size(1465, 954);
             this.MinimumSize = new System.Drawing.Size(1465, 954);
             this.Name = "Form1";
             this.Padding = new System.Windows.Forms.Padding(10);
