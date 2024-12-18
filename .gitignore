@@ -3,3 +3,6 @@
 #debug文件夹
 bin
 obj
+.vscode
+test/img
+test/__pycache__

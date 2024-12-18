@@ -622,7 +622,7 @@
             this.gbxSearch.Location = new System.Drawing.Point(10, 10);
             this.gbxSearch.Name = "gbxSearch";
             this.gbxSearch.Padding = new System.Windows.Forms.Padding(10);
-            this.gbxSearch.Size = new System.Drawing.Size(1407, 80);
+            this.gbxSearch.Size = new System.Drawing.Size(1407, 400);
             this.gbxSearch.TabIndex = 32;
             this.gbxSearch.TabStop = false;
             this.gbxSearch.Text = "搜索";
@@ -638,9 +638,10 @@
             this.fpnSearch.Controls.Add(this.pgbKeyword);
             this.fpnSearch.Controls.Add(this.lblProxyTip);
             this.fpnSearch.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.fpnSearch.FlowDirection = System.Windows.Forms.FlowDirection.TopDown; // 设置为从上到下布局
             this.fpnSearch.Location = new System.Drawing.Point(10, 30);
             this.fpnSearch.Name = "fpnSearch";
-            this.fpnSearch.Size = new System.Drawing.Size(1387, 40);
+            this.fpnSearch.Size = new System.Drawing.Size(1387, 360); // 调整高度
             this.fpnSearch.TabIndex = 31;
             // 
             // btnAnimeSearch
